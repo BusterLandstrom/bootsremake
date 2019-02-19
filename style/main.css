@@ -1,0 +1,21 @@
+html{
+    scroll-behavior: smooth;
+}
+nav{
+    background-color: darkgrey;
+}
+main, footer{
+    text-align: center;
+}
+body{
+    background-color: grey;
+}
+h1{
+    font-family: 'Assistant', sans-serif;
+}
+.mb-0{
+    font-family: 'Nunito', sans-serif;
+}
+.Source Title{
+    font-family: 'Karma', serif;
+}
